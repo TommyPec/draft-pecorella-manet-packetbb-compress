@@ -3,7 +3,7 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: experimental
 
-docname: draft-pecorella-manet-nhdp-compress-latest
+docname: draft-pecorella-manet-packetbb-compress-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
