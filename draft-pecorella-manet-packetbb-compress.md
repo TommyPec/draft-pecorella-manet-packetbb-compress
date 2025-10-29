@@ -1,7 +1,7 @@
 ---
 title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
-category: info
+category: experimental
 
 docname: draft-pecorella-manet-nhdp-compress-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
@@ -20,13 +20,13 @@ venue:
   type: "Working Group"
   mail: "manet@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/manet/"
-  github: "TommyPec/draft-pecorella-manet-nhdp-compress"
-  latest: "https://TommyPec.github.io/draft-pecorella-manet-nhdp-compress/draft-pecorella-manet-nhdp-compress.html"
+  github: "TommyPec/draft-pecorella-manet-packetbb-compress"
+  latest: "https://TommyPec.github.io/draft-pecorella-manet-packetbb-compress/draft-pecorella-manet-packetbb-compress.html"
 
 author:
  -
     fullname: "Tommaso Pecorella"
-    organization: Your Organization Here
+    organization: Università di Firenze, Italy
     email: "tommaso.pecorella@unifi.it"
 
 normative:
